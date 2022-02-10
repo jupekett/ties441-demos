@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "target":"ESNext",
+        "lib": [
+            "dom",
+            "DOM.Iterable",
+            "ESNext"
+        ],
+        "outDir": "dist",
+        "rootDir": "src",
+        "strict": true,
+        "forceConsistentCasingInFileNames": true,
+        "noEmit": false,
+        // "esModuleInterop": true,
+        // "module":"esnext",
+        // "moduleResolution": "node",
+        // "isolatedModules": false,
+    },
+    "include": [
+        "src"
+    ],
+}

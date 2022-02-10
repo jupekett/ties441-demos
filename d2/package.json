@@ -1,0 +1,15 @@
+{
+  "name": "t2-5",
+  "version": "1.0.0",
+  "description": "Exercise 2.5 for the course TIES441 Ohjelmistoarkkitehtuurit",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Juho Kettunen",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.5.1",
+    "typescript": "^4.5.5"
+  }
+}
