@@ -1,0 +1,25 @@
+*,
+::after,
+::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+.app {
+    display: flex;
+}
+
+h1 {
+    margin: 0.5em;
+}
+
+button {
+    padding: 0.5em;
+    margin: 0.5em;
+}
